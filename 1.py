@@ -2,4 +2,5 @@
 print( 'hello worl')
 """ this is our first class
 we atr starting to learn python
-lets make it fun"""
+lets make it fun
+python is an interesting language"""
