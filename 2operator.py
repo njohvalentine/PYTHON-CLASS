@@ -28,8 +28,7 @@ result=9%2
 print(result)
 print("the value of the operation is ", result)
 
-# hard coding our variable values to make them resuable
-#a=9
+# Predefining or hard coding our variable 
 #b=3
 a=input("print first value: ")
 b=input("print second value: ")
