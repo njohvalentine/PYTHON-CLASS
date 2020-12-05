@@ -35,4 +35,8 @@ b=input("print second value: ")
 c=int(a)+int(b)
 print(c)
 
+first_name= "vally"
+last_name="ndi"
+my_names= first_name + last_name
+print(my_names)
 
