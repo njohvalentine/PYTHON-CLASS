@@ -2,5 +2,5 @@
 student_name=input('student_name: ')
 call_student=str.upper(student_name)
 student_marks=int(input('student_marks: '))
-print(("my name is" "{} i scored {}" "in my python exams".format(call_student, student_marks)))
+print(("my name is " "{} i scored {}" "in my python exams".format(call_student, student_marks)))
 
